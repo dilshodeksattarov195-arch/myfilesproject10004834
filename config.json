@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configepdate",
+        "uuid": 37753540,
+        "checksum": "zjzb4"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
